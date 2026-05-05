@@ -12,3 +12,12 @@
 
 🔗 Dashboard Link:
 https://public.tableau.com/app/profile/d.siva.kumar/viz/Book1_17545743996530/Dashboard1?publish=yes
+
+### Task 8: Advanced Tableau Dashboard
+
+- Developed an interactive dashboard using Tableau Public  
+- Visualized key insights using multiple charts and filters  
+- Improved data understanding through interactive visualizations  
+
+🔗 Dashboard Link:
+https://public.tableau.com/app/profile/d.siva.kumar/viz/Book1_17545743996530/Dashboard1?publish=yes
